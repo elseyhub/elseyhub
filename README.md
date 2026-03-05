@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Elsey Ouma 
-lets meet in the AI World
+learning asynchronous python proramming
 
 <!--
 **elseyhub/elseyhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
