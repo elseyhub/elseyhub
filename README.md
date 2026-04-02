@@ -1,5 +1,25 @@
-## Hi there 👋 I'm Elsey Ouma 
-Learning asynchronous python proramming
+
+  Hi there, I'm Elsey 👋 (@elseyhub)
+
+ 🚀 Technical Architect  | 👑 Royalty by Design
+
+I am a **Computer Science and IT student** driven by the logic of systems 
+
+
+🧠 Philosophy & Principles
+
+> "Is your net-working?" — *Orator Walubengo*
+
+I believe in the **5 P's of Purpose**: Presence, Passion, Preparation, Provision, and People. My "Notorious" reputation comes from my refusal to settle for the status quo. I am here to lead a generation of thinkers who move with both **Logic and Kindheartedness**.
+
+
+ 🤝 Connect with Me
+
+- **Email:** [elseyouma@gmail.com]
+- Location: 📍 Kenya
+- **Current Goal:** Mastering the intersection of AI Agents 
+
+"Every generation has its battles to conquer. This is mine." 🚀
 
 
 <!--
