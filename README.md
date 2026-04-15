@@ -17,7 +17,7 @@ I believe in the **5 P's of Purpose**: Presence, Passion, Preparation, Provision
 
 - **Email:** [elseyouma@gmail.com]
 - Location: 📍Nairobi,Kenya
-- Current Goal: Mastering the intersection of AI Agents😎 
+  
 
 "Every generation has its battles to conquer. This is mine." 🚀
 
