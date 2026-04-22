@@ -3,7 +3,7 @@
 
  🚀 Technical Architect  | 👑 Royalty by Design
 
-I am a **Computer Science and IT student** driven by the logic of systems 
+I am a **Applied Computer Science and IT student** driven by the logic of systems 
 
 
 🧠 Philosophy & Principles
