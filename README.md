@@ -20,7 +20,7 @@ I believe in the **5 P's of Purpose**: Presence, Passion, Preparation, Provision
 - Location: 📍Nairobi,Kenya
 - <button><a href="www.linkedin.com/in/
 elsey-ouma-20b757355
-" alt="elsey">LinkedIn</a></button>
+" alt="elsey" target="_blank">LinkedIn</a></button>
  </section>
   
 <footer>
