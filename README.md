@@ -10,7 +10,7 @@ I am an **Applied Computer Science and IT student** driven by the logic of syste
 
 > "Is your net-working?" — *Orator Walubengo Bennyhinn*
 
-I believe in the **5 P's of Purpose**: Presence, Passion, Preparation, Provision, and People. My "Notorious" reputation comes from my refusal to settle for the status quo. I am here to lead a generation of thinkers who move with both **Logic and Kindheartedness**.
+
 
 <section>
   <h2>Contact</h2>
