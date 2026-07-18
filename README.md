@@ -12,14 +12,16 @@ I am an **Applied Computer Science and IT student** driven by the logic of syste
 
 I believe in the **5 P's of Purpose**: Presence, Passion, Preparation, Provision, and People. My "Notorious" reputation comes from my refusal to settle for the status quo. I am here to lead a generation of thinkers who move with both **Logic and Kindheartedness**.
 
-
+<section>
  🤝 Connect with Me
 
 - **Email:** [elseyouma@gmail.com]
 - Location: 📍Nairobi,Kenya
+- </section>
   
-
-"Every generation has its battles to conquer. This is mine." 🚀
+<footer>
+<p>Every generation has its battles to conquer. This is mine.🚀</p>
+</footer>
 
 
 <!--
