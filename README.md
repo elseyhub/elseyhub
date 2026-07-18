@@ -18,9 +18,8 @@ I am an **Applied Computer Science and IT student** driven by the logic of syste
 
 - **Email:** [elseyouma@gmail.com]
 - Location: 📍Nairobi,Kenya
-- <button><a href="www.linkedin.com/in/
-elsey-ouma-20b757355
-" alt="elsey" target="_blank">LinkedIn</a></button>
+- <button><div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="elsey-ouma-20b757355" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/elsey-ouma-20b757355?trk=profile-badge">LinkedIn</a></div></button>
+              
  </section>
   
 <footer>
