@@ -1,9 +1,11 @@
 <h1>About Me</h1>
   Hi there, I'm Elsey 👋😊 (@elseyhub)
 
- >🚀 Technical Architect  | 👑 Royalty by Design
+ 🚀 Technical Architect  | 👑 Royalty by Design
 
-I am an **Applied Computer Science and IT student** driven by the logic of systems 
+<p align="center">
+  Applied Computer Science > IT student
+</p>
 
 
 🧠 Philosophy & Principles
