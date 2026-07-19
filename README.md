@@ -1,5 +1,5 @@
-<h1>About Me</h1>
-  Hi there, I'm Elsey 👋😊 (@elseyhub)
+<h1>Ouma Elsey</h1>
+  <h2>Frontend Developer</h2>
 
  🚀 Technical Architect  | 👑 Royalty by Design
 
