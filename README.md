@@ -1,10 +1,10 @@
 <h1>About Me</h1>
-  Hi there, I'm Elsey 👋😊 (@elseyhub)
+  <p align="center">Hi there, I'm Elsey 👋😊 (@elseyhub)</p>
 
- 🚀 Technical Architect  | 👑 Royalty by Design
+ <p align="center">🚀 Technical Architect  | 👑 Royalty by Design</p>
 
 <p align="center">
-  Applied Computer Science > IT student
+  Applied Computer Science | IT student
 </p>
 
 
