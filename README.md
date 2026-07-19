@@ -1,11 +1,11 @@
 <h1>About Me</h1>
-  <p align="center">Hi there, I'm Elsey 👋😊 (@elseyhub)</p>
+  Hi there, I'm Elsey 👋😊 (@elseyhub)
 
- <p align="center">🚀 Technical Architect  | 👑 Royalty by Design</p>
+ 🚀 Technical Architect  | 👑 Royalty by Design
 
-<p align="center">
+
   Applied Computer Science | IT student
-</p>
+
 
 
 🧠 Philosophy & Principles
@@ -27,6 +27,14 @@
 <footer>
 <p>Every generation has its battles to conquer. This is mine.🚀</p>
 </footer>
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elseyhub&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elseyhub&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=elseyhub)
 
 
 <!--
