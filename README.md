@@ -30,9 +30,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.com/bydesigns/?username=elseyhub&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elseyhub&layout=compact)
+![Top Languages](https://github-readme-stats-bydesign.vercel.app/api/top-langs/?username=elseyhub&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=elseyhub)
 
