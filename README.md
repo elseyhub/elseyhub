@@ -1,5 +1,6 @@
 <h1>Elsey Ouma</h1>
-  >"Frontend Developer"
+  Frontend Developer
+  
 
  🚀 Technical Architect  | 👑 Royalty by Design
 
