@@ -1,3 +1,4 @@
+<img src="./logo.svg" alt="Logo" width="220">
 <h1>Elsey Ouma</h1>
   Frontend Developer
   
