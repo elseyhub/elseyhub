@@ -1,6 +1,6 @@
 <img src="./logo.svg" alt="Logo" width="1080">
 
-  Frontend Developer
+  <h1>Frontend Developer</h1>
   
 
  🚀 Technical Architect  | 👑 Royalty by Design
