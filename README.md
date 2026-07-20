@@ -31,8 +31,6 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://elseyhub-3uc8azaj6-bydesigns.vercel.app/api/top-langs/?username=elseyhub&layout=compact)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=elseyhub)
 
 
