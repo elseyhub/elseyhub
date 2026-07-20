@@ -1,4 +1,4 @@
-<img src="./logo.svg" alt="Logo" width="220">
+<img src="./logo.svg" alt="Logo" width="1080">
 <h1>Elsey Ouma</h1>
   Frontend Developer
   
