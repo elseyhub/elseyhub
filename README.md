@@ -32,6 +32,8 @@
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=elseyhub)
+
+<h2>Profile views</h2>
 <img src="https://komarev.com/ghpvc/?username=elseyhub&label=Profile+Views&color=0e75b6&style=flat" />
 
 
