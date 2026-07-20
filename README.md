@@ -36,6 +36,11 @@
 <h2>Profile views</h2>
 <img src="https://komarev.com/ghpvc/?username=elseyhub&label=Profile+Views&color=0e75b6&style=flat" />
 
+<h2>Skills</h2>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,python,git,github,vscode,mysql" />
+</p>
+
 
 <!--
 **elseyhub/elseyhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
