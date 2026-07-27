@@ -25,13 +25,14 @@ html {
 }
 
 body {
-    background: var(--white);
-    color: var(--black);
+    background: var(--black);
+    color: var(--white);
     font-family: var(--sans);
     line-height: 1.6;
     max-width: 720px;
     margin: 0 auto;
     padding: 4rem 1.5rem 2rem;
+   background-image:url("image.png");
 }
 
 /* ---------- Sections ---------- */
