@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Elsey Ouma — Backend Developer &amp; CS Student</title>
+<meta name="description" content="Portfolio of Elsey Ouma, Computer Science student and aspiring backend developer.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="noise-overlay" aria-hidden="true"></div>
+
+<!-- ===== NAV ===== -->
+<header class="nav" id="nav">
+  <div class="nav-inner">
+    <a href="#top" class="nav-brand">
+      <span class="prompt">~/</span>elsey<span class="cursor-static">_</span>
+    </a>
+    <nav class="nav-links" id="navLinks">
+      <a href="#about" class="nav-link" data-nav>about</a>
+      <a href="#experience" class="nav-link" data-nav>experience</a>
+      <a href="#skills" class="nav-link" data-nav>skills</a>
+      <a href="#projects" class="nav-link" data-nav>projects</a>
+      <a href="#blog" class="nav-link" data-nav>blog</a>
+      <a href="#contact" class="nav-link" data-nav>contact</a>
+    </nav>
+    <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<main id="top">
+
+  <!-- ===== HERO ===== -->
+  <section class="hero">
+    <div class="hero-inner">
+      <div class="hero-text">
+        <p class="eyebrow">status: <span class="status-dot" aria-hidden="true"></span> open to internships &amp; entry-level roles</p>
+        <h1>Building backend<br>systems, one<br><span class="accent">commit</span> at a time.</h1>
+        <p class="hero-sub">Computer Science student and aspiring backend developer who likes turning messy real-world processes — rent rolls, tenant records, spreadsheets — into software that actually works.</p>
+        <div class="hero-cta">
+          <a href="#projects" class="btn btn-primary">view projects</a>
+          <a href="#contact" class="btn btn-ghost">get in touch</a>
+        </div>
+      </div>
+
+      <div class="terminal" role="img" aria-label="Terminal window introducing Elsey Ouma">
+        <div class="terminal-bar">
+          <span class="dot dot-r"></span><span class="dot dot-y"></span><span class="dot dot-g"></span>
+          <span class="terminal-title">elsey@egerton:~</span>
+        </div>
+        <div class="terminal-body" id="terminalBody">
+          <!-- filled by JS typewriter -->
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== ABOUT ===== -->
+  <section class="section" id="about">
+    <div class="section-inner">
+      <p class="section-label">01 — about</p>
+      <div class="about-grid">
+        <div class="about-copy reveal">
+          <p>I'm a Computer Science student passionate about software development, backend engineering, and solving real problems with technology. I like building web applications, picking up new tools, and getting a little better at both the technical and the communication side of the job every week.</p>
+          <p>Outside of coursework, I work in property management administration and digital marketing — which means I spend a lot of time watching where manual processes break down, and thinking about how software could fix them.</p>
+        </div>
+        <aside class="about-facts reveal">
+          <dl>
+            <div class="fact">
+              <dt>education</dt>
+              <dd>B.Sc. Computer Science, Egerton University <span class="muted">(expected [Month Year])</span></dd>
+            </div>
+            <div class="fact">
+              <dt>focus</dt>
+              <dd>Backend development, databases, web applications</dd>
+            </div>
+            <div class="fact">
+              <dt>currently</dt>
+              <dd>Administrator &amp; Digital Marketing Assistant, Lesa Property Agency</dd>
+            </div>
+            <div class="fact">
+              <dt>learning</dt>
+              <dd>Node.js, Express.js, backend architecture</dd>
+            </div>
+          </dl>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== EXPERIENCE ===== -->
+  <section class="section" id="experience">
+    <div class="section-inner">
+      <p class="section-label">02 — experience</p>
+      <ol class="timeline">
+        <li class="timeline-item reveal">
+          <div class="timeline-marker"></div>
+          <div class="timeline-content">
+            <div class="timeline-head">
+              <h3>Administrator &amp; Digital Marketing Assistant</h3>
+              <span class="timeline-date">2026 — present</span>
+            </div>
+            <p class="timeline-org">Lesa Property Agency</p>
+            <ul>
+              <li>Managed property management software and maintained tenant and property records.</li>
+              <li>Assisted with rent collection tracking, arrears follow-ups, and occupancy reporting.</li>
+              <li>Created educational and marketing content for social media platforms.</li>
+              <li>Supported property inspections and coordinated office administrative tasks.</li>
+              <li>Identified and reported software inconsistencies to improve operational efficiency.</li>
+            </ul>
+          </div>
+        </li>
+        <li class="timeline-item reveal">
+          <div class="timeline-marker"></div>
+          <div class="timeline-content">
+            <div class="timeline-head">
+              <h3>Student Developer</h3>
+              <span class="timeline-date">2025 — present</span>
+            </div>
+            <p class="timeline-org">Freelance Web Development · Learning Projects</p>
+            <ul>
+              <li>Developed responsive websites using HTML, CSS, and JavaScript.</li>
+              <li>Learned backend development fundamentals with Node.js.</li>
+              <li>Practiced Git and GitHub for version control.</li>
+              <li>Built personal projects to strengthen programming skills.</li>
+            </ul>
+          </div>
+        </li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- ===== SKILLS ===== -->
+  <section class="section" id="skills">
+    <div class="section-inner">
+      <p class="section-label">03 — skills</p>
+      <p class="section-intro reveal">A running list of what I build with, formatted the way I'd pass them as flags.</p>
+
+      <div class="skills-grid reveal">
+        <div class="skill-group">
+          <h3>languages</h3>
+          <div class="flags">
+            <span class="flag">--html</span>
+            <span class="flag">--css</span>
+            <span class="flag">--javascript</span>
+            <span class="flag">--node.js</span>
+            <span class="flag">--python</span>
+            <span class="flag">--cpp</span>
+            <span class="flag">--sql</span>
+          </div>
+        </div>
+        <div class="skill-group">
+          <h3>frameworks</h3>
+          <div class="flags">
+            <span class="flag flag-learning">--express.js <em>(learning)</em></span>
+          </div>
+        </div>
+        <div class="skill-group">
+          <h3>tools</h3>
+          <div class="flags">
+            <span class="flag">--git</span>
+            <span class="flag">--github</span>
+            <span class="flag">--vscode</span>
+            <span class="flag">--mysql</span>
+            <span class="flag">--canva</span>
+            <span class="flag">--premiere-pro</span>
+          </div>
+        </div>
+        <div class="skill-group">
+          <h3>other</h3>
+          <div class="flags">
+            <span class="flag">--problem-solving</span>
+            <span class="flag">--proptech-systems</span>
+            <span class="flag">--social-media-marketing</span>
+            <span class="flag">--technical-docs</span>
+            <span class="flag">--team-collaboration</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== PROJECTS ===== -->
+  <section class="section" id="projects">
+    <div class="section-inner">
+      <p class="section-label">04 — projects</p>
+      <div class="projects-grid">
+        <article class="project-card reveal">
+          <div class="project-top">
+            <span class="project-tag">web app</span>
+          </div>
+          <h3>Property Management Website</h3>
+          <p>A modern property management site designed to showcase rental properties and management services.</p>
+          <div class="project-stack">
+            <span>HTML</span><span>CSS</span><span>JavaScript</span>
+          </div>
+          <a href="#" class="project-link">view project →</a>
+        </article>
+
+        <article class="project-card reveal">
+          <div class="project-top">
+            <span class="project-tag">portfolio</span>
+          </div>
+          <h3>Personal Portfolio Website</h3>
+          <p>A responsive portfolio site highlighting my education, projects, and technical skills — the one you're looking at.</p>
+          <div class="project-stack">
+            <span>HTML</span><span>CSS</span><span>JavaScript</span>
+          </div>
+          <a href="#" class="project-link">view project →</a>
+        </article>
+
+        <article class="project-card reveal">
+          <div class="project-top">
+            <span class="project-tag">backend</span>
+          </div>
+          <h3>Node.js Learning Project</h3>
+          <p>A backend application built while learning Node.js concepts, including routing and server-side development.</p>
+          <div class="project-stack">
+            <span>Node.js</span><span>JavaScript</span>
+          </div>
+          <a href="#" class="project-link">view repository →</a>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== BLOG ===== -->
+  <section class="section" id="blog">
+    <div class="section-inner">
+      <p class="section-label">05 — blog</p>
+      <p class="section-intro reveal">Writing is queued, not shipped yet. Here's what's coming down the pipe.</p>
+
+      <div class="blog-grid">
+        <article class="blog-card reveal">
+          <span class="blog-status">queued</span>
+          <h3>Web Development</h3>
+          <p>Notes and walkthroughs from building on the frontend and backend.</p>
+        </article>
+        <article class="blog-card reveal">
+          <span class="blog-status">queued</span>
+          <h3>Backend Development with Node.js</h3>
+          <p>Working through routing, servers, and backend architecture as I learn.</p>
+        </article>
+        <article class="blog-card reveal">
+          <span class="blog-status">queued</span>
+          <h3>CS Learning Journey</h3>
+          <p>What's actually sticking from coursework, and what isn't yet.</p>
+        </article>
+        <article class="blog-card reveal">
+          <span class="blog-status">queued</span>
+          <h3>Software Engineering</h3>
+          <p>Practices and habits I'm picking up beyond just writing code.</p>
+        </article>
+        <article class="blog-card reveal">
+          <span class="blog-status">queued</span>
+          <h3>PropTech</h3>
+          <p>Where property management workflows and software actually meet.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== CONTACT ===== -->
+  <section class="section" id="contact">
+    <div class="section-inner">
+      <p class="section-label">06 — contact</p>
+      <div class="contact-grid">
+        <div class="contact-copy reveal">
+          <h2>Let's talk.</h2>
+          <p>Open to internships, entry-level backend roles, and interesting freelance work. The fastest way to reach me is email.</p>
+        </div>
+        <div class="contact-links reveal">
+          <div class="contact-row">
+            <span class="contact-key">email</span>
+            <a href="mailto:you@example.com" class="contact-value" id="emailLink">you@example.com</a>
+            <button class="copy-btn" id="copyEmailBtn" type="button" aria-label="Copy email address">copy</button>
+          </div>
+          <div class="contact-row">
+            <span class="contact-key">linkedin</span>
+            <a href="#" class="contact-value">linkedin.com/in/elsey-ouma</a>
+          </div>
+          <div class="contact-row">
+            <span class="contact-key">github</span>
+            <a href="#" class="contact-value">github.com/elsey-ouma</a>
+          </div>
+          <div class="contact-row">
+            <span class="contact-key">x</span>
+            <a href="#" class="contact-value">x.com/elsey_ouma</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <div class="footer-inner">
+    <p>&copy; <span id="year"></span> Elsey Ouma. Built with HTML, CSS &amp; JavaScript.</p>
+    <a href="#top" class="back-to-top">back to top ↑</a>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
