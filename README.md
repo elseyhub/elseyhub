@@ -39,7 +39,7 @@
 
 <h2>Tech Stack & Tools</h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,python,git,github,vscode,mysql,react" />
+<img src="https://skillicons.dev/icons?i=html,css,python,git,github,vscode,mysql,react,tailwindcss" />
 </p>
 
 
